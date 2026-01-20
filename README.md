@@ -12,6 +12,16 @@ A comprehensive React application for exploring, joining, and creating local com
 - **Responsive Design**: Fully mobile-responsive UI with modern aesthetics.
 - **Dark Mode Support**: Automatically adapts to system preference.
 
+## Screenshots
+
+| Home Page | Event Details |
+|-----------|---------------|
+| ![Home](public/screenshots/home.png) | ![Details](public/screenshots/details.png) |
+
+**Create Event**
+
+![Create Event](public/screenshots/create.png)
+
 ## Tech Stack
 
 - **Framework**: React 19 + Vite
